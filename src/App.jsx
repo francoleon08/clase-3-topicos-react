@@ -1,12 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import MiCompPolitica from "./MiCompSalud";
+import MiCompSalud from "./MiCompSalud";
 
 import "./index.css";
 
 const App = () => (
   <div className="container">
-     <MiCompPolitica />
+     <MiCompSalud />
   </div>
 );
 ReactDOM.render(<App />, document.getElementById("app"));

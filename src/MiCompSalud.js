@@ -1,6 +1,6 @@
 import React from "react";
 
-function MiCompPolitica() {
+function MiCompSalud() {
     // return a jsx ul list of a menu with five random items
     return <div>
        <p>Estrategia focalizada: Salud comienza la distribución de vacunas contra el dengue</p>
@@ -9,5 +9,5 @@ function MiCompPolitica() {
     </div>;
 }
 
-export default MiCompPolitica
+export default MiCompSalud
 
